@@ -1,0 +1,12 @@
+C:\Users\herni\Documents\proyectos-utn\Clase8\clases3\obj\Debug\net6.0\clases3.csproj.AssemblyReference.cache
+C:\Users\herni\Documents\proyectos-utn\Clase8\clases3\obj\Debug\net6.0\clases3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herni\Documents\proyectos-utn\Clase8\clases3\obj\Debug\net6.0\clases3.AssemblyInfoInputs.cache
+C:\Users\herni\Documents\proyectos-utn\Clase8\clases3\obj\Debug\net6.0\clases3.AssemblyInfo.cs
+C:\Users\herni\Documents\proyectos-utn\Clase8\clases3\obj\Debug\net6.0\clases3.csproj.CoreCompileInputs.cache
+C:\Users\herni\Documents\proyectos-utn\Clase8\clases3\bin\Debug\net6.0\clases3.deps.json
+C:\Users\herni\Documents\proyectos-utn\Clase8\clases3\bin\Debug\net6.0\clases3.dll
+C:\Users\herni\Documents\proyectos-utn\Clase8\clases3\bin\Debug\net6.0\clases3.pdb
+C:\Users\herni\Documents\proyectos-utn\Clase8\clases3\obj\Debug\net6.0\clases3.dll
+C:\Users\herni\Documents\proyectos-utn\Clase8\clases3\obj\Debug\net6.0\refint\clases3.dll
+C:\Users\herni\Documents\proyectos-utn\Clase8\clases3\obj\Debug\net6.0\clases3.pdb
+C:\Users\herni\Documents\proyectos-utn\Clase8\clases3\obj\Debug\net6.0\ref\clases3.dll
